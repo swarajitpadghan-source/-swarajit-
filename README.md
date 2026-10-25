@@ -6,7 +6,7 @@ I am an aspiring Embedded Systems Engineer from India.
 ## Skills
 - C Programming
 - Embedded Systems
-- Arduino
+- ESP32
 - UART
 - I2C
 - Git and GitHub
