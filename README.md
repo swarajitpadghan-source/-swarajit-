@@ -15,6 +15,8 @@ I am an aspiring Embedded Systems Engineer from India.
 - SPI Communication
 - Interrupts and Timers
 - Japanese Language
+- German Language
+- Chinese Language 
 
 ## Goal
 To become an Embedded Systems Engineer in Japan.
